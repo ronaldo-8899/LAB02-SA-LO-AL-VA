@@ -1,2 +1,9 @@
 # LAB02-SA-LO-AL-VA
-probando repositorio grupal
+Probando repositorio grupal
+
+**Integrantes:**
+
+- Cristhian Wiki Sánchez Sauñe
+-
+-
+-
