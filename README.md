@@ -5,5 +5,5 @@ Probando repositorio grupal
 
 - Cristhian Wiki Sánchez Sauñe 20180517A
 - Andro Erick Valero Medina 20172757G
--
+- ronaldo lopez campomanes 20181469K
 -
