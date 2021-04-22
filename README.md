@@ -4,6 +4,6 @@ Probando repositorio grupal
 **Integrantes:**
 
 - Cristhian Wiki Sánchez Sauñe 20180517A
--
+- Andro Erick Valero Medina 20172757G
 -
 -
